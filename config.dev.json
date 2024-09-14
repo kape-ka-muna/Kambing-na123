@@ -19,7 +19,7 @@
 		"enable": false,
 		"ignoreCommand": []
 	},
-	"adminBot": [Begie],
+	"adminBot": [],
 	"whiteListMode": {
 		"enable": false,
 		"whiteListIds": [],
